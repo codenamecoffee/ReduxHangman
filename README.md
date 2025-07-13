@@ -84,25 +84,45 @@ npm run dev
 
 ## 🧠 Potential Improvements / Posibles mejoras
 
-* Add sound effects for correct/wrong guesses
+* (EN) Add sound effects for correct/wrong guesses
+* (ES) Agregar efectos de sonido para elecciones correctas/incorrectas
 
-* Show a scoreboard or player streaks
+<br>
 
-* Add difficulty levels (easy, medium, hard)
+* (EN) Show a scoreboard or player streaks
+* (ES) Mostrar una tabla de puntaje o rachas de jugadores 
 
-* Load words dynamically from an API
+<br>
 
-* Translate UI to support multiple languages
+* (EN) Add difficulty levels (easy, medium, hard)
+* (ES) Agregar niveles de dificultad (fácil, medio y difícil)
 
-* Use React Router for different screens or game modes
+<br>
+
+* (EN) Load words dynamically from an API
+* (ES) Cargar palabras dinámicamente desde una API
+
+<br>
+
+* (EN) Translate UI to support multiple languages
+* (ES) Traducir la interfaz de usuario para soportar multiples lenguajes
+
+<br>
+
+* (EN) Use React Router for different screens or game modes
+* (ES) Usar React Router para diferentes pantallas o modos de juego
 
 <br>
 
 ## 📚 Credits / Créditos
 
-* Original idea based on Web Dev Simplified (React only version)
+* (EN) Original idea based on tutorial from Web Dev Simplified (React only version)
+* (ES) Idea original basada en tutorial de Web Dev Simplified (version solo React)
 
-* Redux Toolkit integration and Dark Mode by Federico González Lage
+<br>
+
+* (EN) Redux Toolkit integration and Dark Mode by Federico González Lage
+* (ES) Integración de Redux Toolkit y modo oscuro por Federico González Lage
 
 <br>
 
