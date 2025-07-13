@@ -1,6 +1,8 @@
 # 🪓 Redux Hangman : React + Redux Toolkit + Vite
 
-> 🎯 Classic Hangman game built with React and enhanced using Redux Toolkit for state management and a Dark Mode toggle.  
+> 🎯 Classic Hangman game built with React and enhanced using Redux Toolkit for state management and a  
+> Dark Mode toggle.  
+<br>
 > (ES) Versión moderna del clásico juego del Ahorcado, construida con React y potenciada con Redux Toolkit y modo oscuro.
 
 <br>
@@ -63,7 +65,7 @@ npm run dev
 
 <br>
 
-🚀 Technologies Used / Tecnologías utilizadas
+## 🚀 Technologies Used / Tecnologías utilizadas
 
 * React
 
@@ -79,7 +81,7 @@ npm run dev
 
 <br>
 
-🧠 Potential Improvements / Posibles mejoras
+## 🧠 Potential Improvements / Posibles mejoras
 
 * Add sound effects for correct/wrong guesses
 
@@ -95,7 +97,7 @@ npm run dev
 
 <br>
 
-📚 Credits / Créditos
+## 📚 Credits / Créditos
 
 * Original idea based on Web Dev Simplified (React only version)
 
