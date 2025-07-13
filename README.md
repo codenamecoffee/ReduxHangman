@@ -32,6 +32,11 @@ Este proyecto es una implementación moderna del clásico juego del Ahorcado. Se
 
 <br>
 
+- You can try this game live [here.](https://codenamecoffee.github.io/ReduxHangman/)
+- Puedes probar el juego en vivo [aquí.](https://codenamecoffee.github.io/ReduxHangman/)
+  
+<br>
+
 ## ⚙️ How to Run / Cómo ejecutar
 
 ### With Yarn:
