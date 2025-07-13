@@ -1,7 +1,6 @@
 # 🪓 Redux Hangman : React + Redux Toolkit + Vite
 
-> 🎯 Classic Hangman game built with React and enhanced using Redux Toolkit for state management and a  
-> Dark Mode toggle.  
+> 🎯 Classic Hangman game built with React and enhanced using Redux Toolkit for state management and a Dark Mode toggle.  
 
 <br>
 
