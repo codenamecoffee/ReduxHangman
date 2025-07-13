@@ -25,6 +25,8 @@ Este proyecto es una implementación moderna del clásico juego del Ahorcado. Se
 ### 💡 Gameplay  
 ![Gameplay Demo](./demo1.gif)
 
+<br>
+
 ### 🌙 Dark Mode  
 ![Dark Mode Demo](./demo2.gif)
 
